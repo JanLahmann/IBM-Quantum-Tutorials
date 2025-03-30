@@ -1,0 +1,8 @@
+name: Qiskitenv
+dependencies:
+- python=3.11.9
+- notebook=6.4.12
+- libblas=3.9.0
+- pip
+- pip:
+  - -r requirements.txt
